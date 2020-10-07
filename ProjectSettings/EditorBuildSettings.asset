@@ -9,7 +9,10 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
+    path: Assets/Scenes/PilihanScene.unity
+    guid: eb7a5ed5095f55a4b8bab9995b8dafda
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
-    guid: 736a7576187ff3b46ad626c4c971ec22
+    guid: 103ebd5cbc8bc9641aef2a8b53c3046e
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cde5049ceb147e14282fc7591ea2f5de, type: 2}
